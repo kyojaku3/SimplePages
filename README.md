@@ -1,0 +1,2 @@
+# SimplePages
+ホームページ
